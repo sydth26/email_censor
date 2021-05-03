@@ -77,7 +77,7 @@ class Email:
 
         
         
-## Test code from here
+## Test code from here:
 # email_one = Email('email_one.txt')
 # email_two = Email('email_two.txt')
 # email_three = Email('email_three.txt')
